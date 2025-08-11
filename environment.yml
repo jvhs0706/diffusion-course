@@ -1,3 +1,4 @@
+name: LEARN_DIFFUSION_ENV
 channels:
   - conda-forge
   - defaults
